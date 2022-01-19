@@ -1,0 +1,19 @@
+[22:0:42.527] Global cache location '/Users/mads/Library/Caches/typescript/4.0', safe file path '/users/mads/code/stream/chat/repro/changechannel/node_modules/typescript/lib/typingsafelist.json', types map path /users/mads/code/stream/chat/repro/changechannel/node_modules/typescript/lib/typesmap.json
+[22:0:42.528] Processing cache location '/Users/mads/Library/Caches/typescript/4.0'
+[22:0:42.528] Trying to find '/Users/mads/Library/Caches/typescript/4.0/package.json'...
+[22:0:42.529] Loaded content of '/Users/mads/Library/Caches/typescript/4.0/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.576"}}
+[22:0:42.529] Loaded content of '/Users/mads/Library/Caches/typescript/4.0/package-lock.json'
+[22:0:42.529] Finished processing cache location '/Users/mads/Library/Caches/typescript/4.0'
+[22:0:42.530] Process id: 28142
+[22:0:42.530] NPM location: /usr/local/Cellar/node@16/16.13.1_1/bin/npm (explicit '--npmLocation' not  provided)
+[22:0:42.530] validateDefaultNpmLocation: false
+[22:0:42.531] Npm config file: /Users/mads/Library/Caches/typescript/4.0/package.json
+[22:0:42.532] Updating types-registry npm package...
+[22:0:42.532] Exec: /usr/local/Cellar/node@16/16.13.1_1/bin/npm install --ignore-scripts types-registry@latest
+[22:0:43.970]     Succeeded. stdout:
+    
+    up to date, audited 2 packages in 994ms
+
+found 0 vulnerabilities
+
+[22:0:43.971] Updated types-registry npm package

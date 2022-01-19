@@ -1,0 +1,19 @@
+[20:55:16.232] Global cache location '/Users/mads/Library/Caches/typescript/4.0', safe file path '/users/mads/code/stream/chat/repro/changechannel/node_modules/typescript/lib/typingsafelist.json', types map path /users/mads/code/stream/chat/repro/changechannel/node_modules/typescript/lib/typesmap.json
+[20:55:16.234] Processing cache location '/Users/mads/Library/Caches/typescript/4.0'
+[20:55:16.234] Trying to find '/Users/mads/Library/Caches/typescript/4.0/package.json'...
+[20:55:16.234] Finished processing cache location '/Users/mads/Library/Caches/typescript/4.0'
+[20:55:16.235] Process id: 17656
+[20:55:16.235] NPM location: /usr/local/Cellar/node@16/16.13.1_1/bin/npm (explicit '--npmLocation' not  provided)
+[20:55:16.235] validateDefaultNpmLocation: false
+[20:55:16.235] Npm config file: /Users/mads/Library/Caches/typescript/4.0/package.json
+[20:55:16.236] Npm config file: '/Users/mads/Library/Caches/typescript/4.0/package.json' is missing, creating new one...
+[20:55:16.237] Updating types-registry npm package...
+[20:55:16.238] Exec: /usr/local/Cellar/node@16/16.13.1_1/bin/npm install --ignore-scripts types-registry@latest
+[20:55:17.390]     Succeeded. stdout:
+    
+    added 1 package, and audited 2 packages in 834ms
+
+found 0 vulnerabilities
+
+[20:55:17.391] Updated types-registry npm package
+[21:53:51.971] Parent process has exited, shutting down...
